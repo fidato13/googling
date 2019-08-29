@@ -26,3 +26,4 @@ hs_err_pid*
 googling.iml
 .idea/
 target/
+src/main/java/com/trn/googling/ruf/
