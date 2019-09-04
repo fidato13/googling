@@ -1,4 +1,6 @@
-package com.trn.googling.datastructure.graphs;
+package com.trn.googling.datastructure.graphs.traversal;
+
+import com.trn.googling.datastructure.graphs.Graph;
 
 import java.util.Iterator;
 import java.util.LinkedList;
