@@ -1,6 +1,6 @@
-package com.trn.googling.datastructure.graphs.problems;
+package com.trn.googling.datastructure.graphs.undirected.problems;
 
-import com.trn.googling.datastructure.graphs.Graph;
+import com.trn.googling.datastructure.graphs.undirected.Graph;
 
 import java.util.LinkedList;
 

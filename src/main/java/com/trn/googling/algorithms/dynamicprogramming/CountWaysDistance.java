@@ -1,4 +1,4 @@
-package com.trn.googling.dynamicprogramming;
+package com.trn.googling.algorithms.dynamicprogramming;
 
 /**
  * Count number of ways to cover a distance

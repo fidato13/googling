@@ -1,4 +1,4 @@
-package com.trn.googling.dynamicprogramming;
+package com.trn.googling.algorithms.dynamicprogramming;
 
 /**
  * Seems like a pretty hard problem, will attempt that soon

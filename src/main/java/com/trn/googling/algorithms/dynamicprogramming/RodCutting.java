@@ -1,4 +1,4 @@
-package com.trn.googling.dynamicprogramming;
+package com.trn.googling.algorithms.dynamicprogramming;
 
 /**
  * The rod-cutting problem is the following. Given a rod of length n inches and a

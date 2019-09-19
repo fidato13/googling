@@ -1,6 +1,6 @@
-package com.trn.googling.datastructure.graphs.traversal;
+package com.trn.googling.datastructure.graphs.undirected.traversal;
 
-import com.trn.googling.datastructure.graphs.Graph;
+import com.trn.googling.datastructure.graphs.undirected.Graph;
 
 import java.util.Iterator;
 

@@ -1,4 +1,4 @@
-package com.trn.googling.dynamicprogramming;
+package com.trn.googling.algorithms.dynamicprogramming;
 
 /**
  * Subset Sum Problem | DP-25

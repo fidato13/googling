@@ -1,4 +1,4 @@
-package com.trn.googling.dynamicprogramming;
+package com.trn.googling.algorithms.dynamicprogramming;
 
 /**
  * Given a two dimensional cost matrix cost[][] of order m * n ,where cost[i][j] respresents the cost passing thru cell (i,j) . Total cost to reach

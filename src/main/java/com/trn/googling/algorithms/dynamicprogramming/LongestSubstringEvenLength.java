@@ -1,4 +1,4 @@
-package com.trn.googling.dynamicprogramming;
+package com.trn.googling.algorithms.dynamicprogramming;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

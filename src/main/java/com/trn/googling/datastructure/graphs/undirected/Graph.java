@@ -1,4 +1,4 @@
-package com.trn.googling.datastructure.graphs;
+package com.trn.googling.datastructure.graphs.undirected;
 
 import java.util.LinkedList;
 
