@@ -78,8 +78,15 @@ public class OptimalStrategyGame {
             return Math.max(arr[rangeStart], arr[rangeEnd]);
         }
 
-        return Math.max(arr[rangeStart] + Math.min(optimalGameRecursive(arr, rangeStart + 1, rangeEnd - 1), optimalGameRecursive(arr, rangeStart + 2, rangeEnd)),
-                arr[rangeEnd] + Math.min(optimalGameRecursive(arr, rangeStart, rangeEnd - 2), optimalGameRecursive(arr, rangeStart + 1, rangeEnd - 1))
+        return Math.max(
+                arr[rangeStart] + Math.min(
+                        optimalGameRecursive(arr, rangeStart + 1, rangeEnd - 1),
+                        optimalGameRecursive(arr, rangeStart + 2, rangeEnd))
+                ,
+                arr[rangeEnd] + Math.min(
+                        optimalGameRecursive(arr, rangeStart, rangeEnd - 2),
+                        optimalGameRecursive(arr, rangeStart + 1, rangeEnd - 1)
+                )
         );
 
     }
